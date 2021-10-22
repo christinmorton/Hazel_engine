@@ -37,8 +37,7 @@ includedirs {
   "%{IncludeDir.GLFW}"
 }
 
-links
-{
+links {
   "GLFW",
   "opengl32.lib"
 }
